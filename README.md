@@ -53,13 +53,7 @@ Estos logs permiten analizar el comportamiento interno de la aplicación durante
 
 ## 🖼️ Capturas de la aplicación
 
-### Interfaz principal
-![Interfaz principal](capturas/interfaz_principal.png)
-
-### Logs en Logcat
-![Logs en Logcat](capturas/logcat.png)
-
----
+En la Carpeta Carturas estan ubicadas
 
 ## ⚠️ Problemas encontrados
 
