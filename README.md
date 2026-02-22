@@ -53,7 +53,7 @@ Estos logs permiten analizar el comportamiento interno de la aplicación durante
 
 ## 🖼️ Capturas de la aplicación
 
-En la Carpeta Carturas estan ubicadas
+En la Carpeta Capturas estan ubicadas
 
 ## ⚠️ Problemas encontrados
 
